@@ -21,7 +21,6 @@ body {
 header {
   background-color: #333;
   color: white;
-  text-align: center;
 }
 
 nav ul {
@@ -41,6 +40,10 @@ nav ul li a {
 
 nav ul li a:hover {
   text-decoration: underline;
+}
+
+h1{
+  text-align: center;
 }
 
 .grid-container {

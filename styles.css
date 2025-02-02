@@ -71,3 +71,9 @@ img:nth-child(even) {
   border-radius: 10px;
 }
 
+image7{
+  object-fit: contain;
+  width: 5px;
+  height: 5px;
+}
+
